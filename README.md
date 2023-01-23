@@ -1,2 +1,2 @@
-# Quantum-Algorthims
+# Quantum-Algorthms
 Quantum Algorthims Projects
